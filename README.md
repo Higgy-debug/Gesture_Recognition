@@ -10,6 +10,6 @@ Libraries:
 
 Usage:
 
- *   create_gesture.py
- *    train_model.py
- *    predict_gesture.py
+ * python  create_gesture.py
+ * python  train_model.py
+ * python  predict_gesture.py
